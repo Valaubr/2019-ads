@@ -2,8 +2,6 @@ package ru.mail.polis.ads.dz3;
 
 import java.util.Scanner;
 
-//https://www.e-olymp.com/ru/submissions/5912457
-
 public class DZ3_TrickySorting {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
